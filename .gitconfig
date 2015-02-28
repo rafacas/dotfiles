@@ -1,0 +1,7 @@
+[user]
+    name = Rafael Casado Sanchez
+    email = rafacas@gmail.com
+[alias]
+    st = status -s
+[color]
+    ui = 1
